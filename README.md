@@ -1,8 +1,5 @@
 ## heyyy there , I’m Madhu
  
-🎓 I’m currently a student learning **Java, Data Structures & Algorithms, and Web Development**.  
-💡 Along with strengthening my problem-solving skills, I’m also building my knowledge in **Data Analytics** – learning how to work with data, uncover insights, and create meaningful visualizations. 
-
 
 
 ##🌐 Connect with Me 
@@ -21,8 +18,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
